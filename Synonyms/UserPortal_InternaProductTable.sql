@@ -1,0 +1,1 @@
+CREATE SYNONYM [UserPortal_InternaProductTable] FOR InternaDB.dbo.Product

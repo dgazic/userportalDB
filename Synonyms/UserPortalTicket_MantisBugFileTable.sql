@@ -1,0 +1,2 @@
+CREATE SYNONYM [UserPortalTicket_MantisBugFileTable] FOR MantisBT_razvoj.dbo.mantis_bug_file_table
+GO

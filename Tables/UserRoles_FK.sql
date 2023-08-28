@@ -1,0 +1,3 @@
+ALTER TABLE [User] ADD CONSTRAINT FK_UserRole FOREIGN KEY(UserRoleId)
+REFERENCES dbo.UserRole(Id)
+
